@@ -3,14 +3,14 @@
     A simple mod base for using Skija in Minecraft.
 </div>
 
----
+
 
 <div align="center">
     <h2>Overview</h2>
     This Skija Template serves as a starting point for developers looking to enhance the rendering capabilities of Minecraft by integrating the Skija graphics library. This template provides a foundation for creating advanced user interfaces, including custom panels, shadows, gradients, and text rendering using Skija's powerful graphics features.
 </div>
 
----
+
 
 <div align="center">
     <h2>Requirements</h2>
@@ -20,7 +20,7 @@
 - Fabric Mod Loader
 - Fabric API
 
----
+
 
 <div align="center">
     <h2>Useful Gradle Commands</h2>
@@ -43,7 +43,7 @@
 ./gradlew --stop
 ```
 
----
+
 
 <div align="center">
     <h2>License</h2>
@@ -51,7 +51,7 @@
 
 This code is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). You are free to share and adapt this code, provided appropriate credit is given to the original author.
 
----
+
 
 <div align="center">
     <h2>Author</h2>
@@ -60,7 +60,7 @@ This code is released under the [Creative Commons Attribution 4.0 International 
 - **Name**: quantamyt
 - **Contact**: quantamyt19@gmail.com
 
----
+
 
 <div align="center">
     <h2>Contributing</h2>
@@ -68,7 +68,7 @@ This code is released under the [Creative Commons Attribution 4.0 International 
 
 Contributions to this template are welcome! If you would like to contribute, please fork the repository and submit a pull request. Make sure to follow the coding standards and include tests for new features.
 
----
+
 
 <div align="center">
     <h2>Acknowledgments</h2>
